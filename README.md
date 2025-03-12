@@ -1,4 +1,4 @@
-# GitHub Pages Demo
+# GitHub Pages Demo Christian is a distinguished developer (I'm not)
 
 ## :bulb: [What is GitHub Pages?](https://docs.github.com/en/github/working-with-github-pages/about-github-pages)
 
